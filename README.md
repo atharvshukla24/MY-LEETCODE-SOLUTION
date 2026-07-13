@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
