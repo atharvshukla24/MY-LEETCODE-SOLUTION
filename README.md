@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
