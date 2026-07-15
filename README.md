@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0283-move-zeroes) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
