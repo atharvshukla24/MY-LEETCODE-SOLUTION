@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0049-group-anagrams) |
 | [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -87,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
