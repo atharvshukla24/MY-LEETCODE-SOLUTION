@@ -81,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0096-unique-binary-search-trees) |
 | [0392-is-subsequence](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
@@ -104,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/atharvshukla24/MY-LEETCODE-SOLUTION/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
